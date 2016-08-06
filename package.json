@@ -1,0 +1,24 @@
+{
+  "name": "csv2txt",
+  "version": "0.0.1",
+  "description": "csv2txt - convert a comma separated file to a text file (\\n or otherwise delimited)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danvoinea/csv2txt.git"
+  },
+  "keywords": [
+    "csv2txt",
+    "csv",
+    "convert"
+  ],
+  "author": "Dan Voinea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvoinea/csv2txt/issues"
+  },
+  "homepage": "https://github.com/danvoinea/csv2txt#readme"
+}
